@@ -7,6 +7,8 @@ Automate Nexus deployment on a remote CentOS7 machine
     ❏ Minimum 1 VCPU & 2 GB Memory</br>
 
 - The yaml file consists of three plays:</br>
-  ❏ First Play “Create nexus user to own nexus folders</br>
-  ❏ Second Play “Start nexus with nexus user”</br>
-  ❏ Third Play “Verify nexus running”
+  ❏ First Play “Install java and net-tools”
+  ❏ Second Play “Download and unpack Nexus installer”
+  ❏ Third Play “Create nexus user to own nexus folders</br>
+  ❏ Fourth Play “Start nexus with nexus user”</br>
+  ❏ Fifth Play “Verify nexus running”
