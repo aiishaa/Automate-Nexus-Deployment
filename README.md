@@ -3,7 +3,7 @@
 Automate Nexus deployment on a remote CentOS7 machine
 
 - Requirements:</br>
-  Nexus node</br>
+  Nexus node:</br>
     ❏ Minimum 1 VCPU & 2 GB Memory</br>
 
 - The yaml file consists of three plays:</br>
